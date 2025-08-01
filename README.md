@@ -24,7 +24,7 @@ This repository contains a collection of practical projects focused on using **S
 - **Highlights**:
   - Queries for login failures, account lockouts, and privilege escalations.
   - Use of real-time dashboards and alerts.
-- [View Project](./Forwarding Windows Event Logs to Splunk Using Universal Forwarder.md)
+- [View Project](./splunk_works/forwarding-windows-event-logs-splunk-universal-forwarder.md)
 
 ---
 
