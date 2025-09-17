@@ -24,7 +24,7 @@ This repository contains a collection of practical projects focused on using **S
 - **Highlights**:
   - Queries for login failures, account lockouts, and privilege escalations.
   - Use of real-time dashboards and alerts.
-- [View Project](./windows-event-forwarding/README.md)
+- [View Project](https://github.com/00112244/splunk_works/blob/main/Forwarding-Windows-Event-Logs-to-Splunk-Using-Universal-Forwarder.md)
 
 ---
 ### 2. **Analyzing DNS Log Files in Splunk**
@@ -37,5 +37,5 @@ This repository contains a collection of practical projects focused on using **S
   - Queries for unusual DNS activity and malicious domain lookups.  
   - Identification of top queried domains and source IPs.  
   - Integration with threat intelligence feeds (VirusTotal, OTX).  
-- [View Project](./dns-log-analysis/README.md)
+- [View Project](https://github.com/00112244/splunk_works/blob/main/Forwarding-Windows-Event-Logs-to-Splunk-Using-Universal-Forwarder.md)
 
