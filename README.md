@@ -27,4 +27,15 @@ This repository contains a collection of practical projects focused on using **S
 - [View Project](./windows-event-forwarding/README.md)
 
 ---
+### 2. **Analyzing DNS Log Files in Splunk**
+- **Description**: Demonstrates how to upload, parse, and analyze DNS log files in Splunk SIEM to detect anomalies and investigate suspicious domains.  
+- **Key Features**:  
+  - Uploading sample DNS logs into Splunk.  
+  - Extraction of key fields such as source IP, destination IP, query type, and response code.  
+  - Use of SPL queries to identify spikes, anomalies, and suspicious domains.  
+- **Highlights**:  
+  - Queries for unusual DNS activity and malicious domain lookups.  
+  - Identification of top queried domains and source IPs.  
+  - Integration with threat intelligence feeds (VirusTotal, OTX).  
+- [View Project](./dns-log-analysis/README.md)
 
