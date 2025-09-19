@@ -63,5 +63,16 @@ This repository contains a collection of practical projects focused on using **S
   - Dashboards and alerts to visualize login trends, top file transfers, and real-time suspicious activity.
 - [View Project](https://github.com/00112244/splunk_works/blob/main/Analyzing-FTP-and-SSH-Log-Files-Using-Splunk-SIEM.md)
 ---
-
+### 5. Analyzing Tunnel & DHCP Log Files in Splunk
+- **Description:**
+Demonstrates how to upload, parse, and analyze tunnel traffic logs from Zeek IDS and DHCP log files in Splunk SIEM to monitor tunneling activity, IP address assignments, detect anomalies, and identify potential threats.
+- **Key Features:**
+  - Uploading sample tunnel logs (Zeek IDS) and DHCP logs into Splunk.
+  - Extraction of key fields such as timestamps, source/destination IPs, tunneling protocols, leased IPs, client identifiers, and lease renewals.
+  - Use of SPL queries to detect unusual GRE tunneling, unauthorized DHCP clients, repeated lease renewals, and abnormal activity patterns.
+- **Highlights:**
+  - Queries to analyze GRE tunneling activity, tunneling protocol distribution, and anomalies in tunnel traffic.
+  - Queries to identify top leased IP addresses, unauthorized DHCP requests, and abnormal IP allocation patterns.
+  - Dashboards and alerts to visualize tunnel usage, DHCP trends, and respond to anomalies in real time.
+- [View Project](https://github.com/00112244/splunk_works/blob/main/Analyzing-Tunnel-and-DHCP-Log-Files-Using-Splunk-SIEM.md)
 
