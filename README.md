@@ -1,4 +1,5 @@
 # Splunk SIEM Projects
+![Splunk-Projects](splunk.png)
 
 This repository contains a collection of practical projects focused on using **Splunk as a Security Information and Event Management (SIEM)** tool for log monitoring, threat detection, and security analytics. Each project simulates real-world use cases relevant to SOC operations, log management, and incident response.
 
