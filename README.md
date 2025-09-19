@@ -51,5 +51,17 @@ This repository contains a collection of practical projects focused on using **S
   - Dashboards and alerts to visualize trends and respond to anomalies in real time.
 - [View Project](https://github.com/00112244/splunk_works/blob/main/Analyzing-SMTP-and-HTTP-Log-Files-Using-Splunk-SIEM.md)
 ---
+### 4. Analyzing FTP & SSH Log Files in Splunk
+- **Description:** Demonstrates how to upload, parse, and analyze FTP (file transfers) and SSH (remote access) log files in Splunk SIEM to monitor user activity, detect anomalies, and identify potential security threats.
+- **Key Features:**
+  - Uploading sample FTP and SSH logs into Splunk.
+  - Extraction of key fields such as timestamps, usernames, source IPs, commands, file paths, and login outcomes.
+  - Use of SPL queries to detect brute-force attempts, unauthorized file transfers, and abnormal login activity.
+- **Highlights:**
+  - Queries for analyzing file transfer frequency, top users/IPs, and unusual FTP activity.
+  - Detection of failed SSH login attempts, suspicious remote access, and session anomalies.
+  - Dashboards and alerts to visualize login trends, top file transfers, and real-time suspicious activity.
+- [View Project](https://github.com/00112244/splunk_works/blob/main/Analyzing-FTP-and-SSH-Log-Files-Using-Splunk-SIEM.md)
+---
 
 
