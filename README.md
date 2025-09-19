@@ -38,4 +38,18 @@ This repository contains a collection of practical projects focused on using **S
   - Identification of top queried domains and source IPs.  
   - Integration with threat intelligence feeds (VirusTotal, OTX).  
 - [View Project](https://github.com/00112244/splunk_works/blob/main/Forwarding-Windows-Event-Logs-to-Splunk-Using-Universal-Forwarder.md)
+---
+### 3. **Analyzing SMTP & HTTP Log Files in Splunk**
+- **Description:** Demonstrates how to upload, parse, and analyze **SMTP (email)** and **HTTP (web server)** log files in Splunk SIEM to monitor communication patterns, detect anomalies, and identify potential threats.
+- **Key Features:**
+  - Uploading sample SMTP and HTTP logs into Splunk.
+  - Extraction of key fields such as sender/recipient addresses, subjects, request methods, URLs, response codes, and user agents.
+  - Use of SPL queries to detect brute force attempts, phishing campaigns, SQL injections, and abnormal traffic.
+- **Highlights:**
+  - Queries for detecting failed SMTP logins, suspicious attachments, and unusual email activity.
+  - Identification of top senders/recipients in SMTP and top endpoints or error codes in HTTP.
+  - Dashboards and alerts to visualize trends and respond to anomalies in real time.
+- [View Project](https://github.com/00112244/splunk_works/blob/main/Analyzing-SMTP-and-HTTP-Log-Files-Using-Splunk-SIEM.md)
+---
+
 
