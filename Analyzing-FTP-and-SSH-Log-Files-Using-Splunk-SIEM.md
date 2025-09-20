@@ -49,7 +49,7 @@ Before starting, ensure:
 1. Log in to Splunk Web.
 2. Go to **Settings > Add Data**.
 3. Select **Upload** as the input method.
-4. Choose the prepared FTP log file.
+4. Choose the prepared [FTP log file](https://www.secrepo.com/maccdc2012/ftp.log.gz).
 
 ### Step 3: Configure Source Type
 
@@ -90,7 +90,7 @@ index=ftp_logs sourcetype=ftp | stats count by user, src_ip, command
 1. Log in to Splunk Web.
 2. Go to **Settings > Add Data**.
 3. Select **Upload** as the input method.
-4. Choose the SSH log file.
+4. Choose the [SSH log file](https://www.secrepo.com/maccdc2012/ssh.log.gz).
 
 ### Step 3: Configure Source Type
 
