@@ -47,7 +47,7 @@ Before starting, ensure:
 
    * Navigate to **Settings > Add Data** in Splunk Web.
    * Select **Upload** as the data input method.
-   * Choose the prepared [tunnel log file]((https://www.secrepo.com/maccdc2012/tunnel.log.gz)
+   * Choose the prepared [tunnel log file](https://www.secrepo.com/maccdc2012/tunnel.log.gz)
 
 3. **Set Source Type**
 
